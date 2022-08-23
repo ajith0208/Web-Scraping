@@ -1,0 +1,3 @@
+This assignment is done as a training purpose and mainly the scraping is done on the work tender contracts of scotland. 
+Python selenium is used to do the entire project and pandas module for dataset cleaning and alanysis.
+This is my first complete web scraping project, and it will help to know more about the selenium web driver.
